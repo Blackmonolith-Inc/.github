@@ -2,7 +2,7 @@
 
 Blackmonolith builds consumer AI products that turn personal context into shareable, emotionally clear experiences.
 
-Our current focus is **Sonder**, a relationship intelligence product designed to make complex compatibility and relationship readings simple enough to share, compare, and discuss.
+Our current focus is **[Sonder](https://thesonder.ai/)**, a relationship intelligence product designed to make complex compatibility and relationship readings simple enough to share, compare, and discuss.
 
 ## What we are building
 
